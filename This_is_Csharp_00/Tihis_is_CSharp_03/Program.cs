@@ -1,4 +1,4 @@
-﻿namespace Tihis_is_CSharp_03
+﻿namespace This_is_CSharp_03
 {
     internal class Program
     {

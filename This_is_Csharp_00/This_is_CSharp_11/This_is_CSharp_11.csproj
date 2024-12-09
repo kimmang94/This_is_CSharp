@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Tihis_is_CSharp_03\This_is_CSharp_03.csproj" />
-  </ItemGroup>
-
 </Project>
