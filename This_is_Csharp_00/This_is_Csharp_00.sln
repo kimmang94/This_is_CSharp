@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This_is_CSharp_20", "This_i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This_is_CSharp_21", "This_is_CSharp_21\This_is_CSharp_21.csproj", "{CD7FF9C3-BD8B-4DC5-B8E7-C09288F22F78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This_is_CSharp_22", "This_is_CSharp_22\This_is_CSharp_22.csproj", "{BD1838B6-F990-43AF-A843-1F764C35D525}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{CD7FF9C3-BD8B-4DC5-B8E7-C09288F22F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD7FF9C3-BD8B-4DC5-B8E7-C09288F22F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD7FF9C3-BD8B-4DC5-B8E7-C09288F22F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1838B6-F990-43AF-A843-1F764C35D525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1838B6-F990-43AF-A843-1F764C35D525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1838B6-F990-43AF-A843-1F764C35D525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1838B6-F990-43AF-A843-1F764C35D525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
