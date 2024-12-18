@@ -1,4 +1,4 @@
-﻿namespace This_is_Csharp_35
+﻿namespace This_is_Csharp_38
 {
     internal class Program
     {
@@ -8,4 +8,3 @@
         }
     }
 }
-
