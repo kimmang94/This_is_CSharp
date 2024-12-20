@@ -14,7 +14,7 @@
             float x = 0.1f;
             Console.WriteLine("x : {0}", x);
 
-            double y = (double)y;
+            double y = (double);
             Console.WriteLine("y : {0}", y);
 
             Console.WriteLine("0.1 == y : {0}", 0.1 == y);
