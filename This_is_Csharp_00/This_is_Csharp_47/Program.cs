@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-           
+            Ex047 ex047 = new Ex047();
+            ex047.Run();
         }
 
         public class Ex047
