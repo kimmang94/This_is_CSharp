@@ -125,6 +125,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This_is_CSharp_59", "This_i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This_is_CSharp_60", "This_is_CSharp_60\This_is_CSharp_60.csproj", "{28F008E8-BCCB-4266-8AA1-688D8B73C696}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This_is_Csharp_61", "This_is_Csharp_61\This_is_Csharp_61.csproj", "{B9C97291-D52A-4EA5-972E-B5A27A6D9485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This_is_Csharp_62", "This_is_Csharp_62\This_is_Csharp_62.csproj", "{49313B90-E7B1-4C25-B584-4851CC89824D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +379,14 @@ Global
 		{28F008E8-BCCB-4266-8AA1-688D8B73C696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F008E8-BCCB-4266-8AA1-688D8B73C696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F008E8-BCCB-4266-8AA1-688D8B73C696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C97291-D52A-4EA5-972E-B5A27A6D9485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C97291-D52A-4EA5-972E-B5A27A6D9485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C97291-D52A-4EA5-972E-B5A27A6D9485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C97291-D52A-4EA5-972E-B5A27A6D9485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49313B90-E7B1-4C25-B584-4851CC89824D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49313B90-E7B1-4C25-B584-4851CC89824D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49313B90-E7B1-4C25-B584-4851CC89824D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49313B90-E7B1-4C25-B584-4851CC89824D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
