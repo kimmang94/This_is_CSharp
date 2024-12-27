@@ -10,6 +10,10 @@ namespace This_is_CSharp_66
     {
         static void Main(string[] args)
         {
+            Ex066 ex066 = new Ex066();
+            ex066.Run();
         }
+
+        
     }
 }
