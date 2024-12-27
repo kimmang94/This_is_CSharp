@@ -10,6 +10,10 @@ namespace This_is_CSharp_55
     {
         static void Main(string[] args)
         {
+            Example example = new Example();
+            example.Run();
         }
+      
+
     }
 }

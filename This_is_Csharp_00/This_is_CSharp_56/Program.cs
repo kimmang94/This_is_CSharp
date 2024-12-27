@@ -10,6 +10,7 @@ namespace This_is_CSharp_56
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
