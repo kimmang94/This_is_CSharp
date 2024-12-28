@@ -10,6 +10,20 @@ namespace This_is_CSharp_73
     {
         static void Main(string[] args)
         {
+
+        }
+        
+        public class Ex073
+        {
+            public void Run()
+            {
+                Console.WriteLine("숫자를 입력 하세요 : ");
+
+                int number = Convert.ToInt32(Console.ReadLine());
+                // input value : "one"
+
+                Console.WriteLine("입력 된 숫자는 {0}", number);
+            }
         }
     }
 }
