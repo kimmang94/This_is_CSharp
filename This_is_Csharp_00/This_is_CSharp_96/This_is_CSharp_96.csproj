@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatabaseInfo.cs" />
+    <Compile Include="Ex096.cs" />
+    <Compile Include="IDatabaseManager.cs" />
+    <Compile Include="MSSqlManager.cs" />
+    <Compile Include="MySqlManager.cs" />
+    <Compile Include="OracleManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
