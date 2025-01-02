@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85955682-11E2-4EF5-ADCB-36D7C1EEFD09}</ProjectGuid>
+    <ProjectGuid>{2B6B3D56-F3A7-4D82-A2E0-A5E95D72A6A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>This_is_CSharp_90</RootNamespace>
-    <AssemblyName>This_is_CSharp_90</AssemblyName>
+    <RootNamespace>This_is_CSharp_91</RootNamespace>
+    <AssemblyName>This_is_CSharp_91</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ex090.cs" />
+    <Compile Include="Ex091.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
