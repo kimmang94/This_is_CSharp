@@ -10,6 +10,9 @@ namespace This_is_CSharp_88
     {
         static void Main(string[] args)
         {
+            Ex088 ex088 = new Ex088();
+            ex088.Run();
+
         }
     }
 }
